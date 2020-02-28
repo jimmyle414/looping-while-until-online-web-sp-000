@@ -1,5 +1,5 @@
 def using_until
-  levitatioin = 0
+  levitatioin = 6
   until levitatioin == 10 
   puts "Wingardium Leviosa"
   levitatioin += 1
